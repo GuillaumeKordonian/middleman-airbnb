@@ -1,0 +1,6 @@
+- name: "Berlin"
+  address: "12 rue du chemin vert"
+- name: "Rio"
+  address: "Chez Mat Le Roux"
+- name: "Shanghai"
+  address: "I don't know the address"
